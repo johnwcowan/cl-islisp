@@ -194,4 +194,10 @@
 
 (cl:load "defglobal.lisp")
 (cl:load "parse-number.lisp")
-(cl:load "clause18-21.lisp")
+(cl:load "basic.lisp")
+(cl:load "macros.lisp")
+(cl:load "classes.lisp")
+(cl:load "arrays.lisp")
+(cl:load "streams.lisp")
+(cl:load "format.lisp")
+(cl:load "conditions.lisp")
